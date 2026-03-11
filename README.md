@@ -14,8 +14,8 @@ A simple, fun, and personal web application to track my motorcycle adventures an
 - **JavaScript:** Logic for counting, saving, and UI updates.
 
 ## 📸 Preview
-![Bike Crash Screenshot](crash%20funny%20fall.jpg) 
-*(Note: Replace this with an actual screenshot of your website later!)*
+<img width="959" height="473" alt="image" src="https://github.com/user-attachments/assets/8a2943e8-6ac5-4dc0-8c7e-017597dc30eb" />
+
 
 ## 💡 Why I Built This?
 As a motorcycle enthusiast and a student at Scrimba, I wanted to turn a learning exercise into something that reflects my real life in Egypt. It’s not just a counter; it’s a way to track my progress as a developer and a rider!
